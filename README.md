@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?elaysxa=DenverCoder1)](https://git.io/streak-stats)
 <!--
 **elaysxa/elaysxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
