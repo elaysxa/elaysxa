@@ -3,4 +3,4 @@
 
 ![elaysxa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elaysxa&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
-[![My Skills]([BASE_URL]?i=postgresql)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
