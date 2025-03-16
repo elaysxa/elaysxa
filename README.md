@@ -3,4 +3,4 @@
 
 ![elaysxa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elaysxa&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,git)](https://skillicons.dev)
